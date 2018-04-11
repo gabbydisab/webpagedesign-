@@ -14,5 +14,12 @@
 /* Put body attributes here */
 
 body { background-color : yellow ; color : orange; 
+font-family: Arial, Helvetica, sans-serif;
 
 }
+h1 { 
+font-size: 12pt, /* points */
+text-align: center;
+}
+
+img{float:right;}
