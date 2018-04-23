@@ -1,0 +1,35 @@
+<!-- Gabby DiSabatino -->
+<!-- Due Date: April 25, 2018 --> 
+<!-- Girl Develope it Project -->
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { font-family: sans-serif;
+}
+h1 {font-family: "apple chancery", cursive;
+	text-decoration: underline;
+	background-color: lightpink
+}
+
+h2 {font-family: cursive;
+	text-decoration: underline;
+}
+
+a:link { color: blue;
+		text-decoration: underline;
+		}
+		
+	a:hover, a:focus{ color: fuchsia;
+						font-size: 30px;
+						}
+						
+.right {float: right; }
+
+header {text-align: center; background-color: lightpink; }
+						
