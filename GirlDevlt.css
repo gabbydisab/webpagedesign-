@@ -4,26 +4,26 @@
 
 /* The universal selector */
 
-* {
+* { 
 
 }
 
 /* Put body attributes here */
 
 body { font-family: sans-serif;
+	background-color: #FED5E6;
 }
-h1 {font-family: "apple chancery", cursive;
+h1 {font-family: cursive;
 	text-decoration: underline;
-	background-color: lightpink
+	
 }
 
 h2 {font-family: cursive;
 	text-decoration: underline;
 }
 
-a:link { color: blue;
-		text-decoration: underline;
-		}
+footer {font-family: serif;
+}
 		
 	a:hover, a:focus{ color: fuchsia;
 						font-size: 30px;
@@ -31,5 +31,5 @@ a:link { color: blue;
 						
 .right {float: right; }
 
-header {text-align: center; background-color: lightpink; }
+header {text-align: center; background-color: #C14C51; }
 						
