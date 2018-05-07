@@ -1,0 +1,40 @@
+/* The universal selector */
+
+* { 
+margin: 0;
+padding: 0;
+}
+
+/* Put body attributes here */
+h1 {
+
+/*	height: 70px;
+	width: 300px;  */
+	border: 2px dotted black;
+    padding: 5px;
+    margin: 5px 8px 5px 7px;
+}
+
+p {
+	/* height: 70px;
+	width: 300px; */
+	border: 2px dotted black;
+	padding: 5px;
+	margin: 5px 8px 5px 7px;
+
+}
+
+main {
+	margin: 5px 7px 8px;
+	border: 2px solid black;
+	padding: 10px;
+
+}
+
+body {
+padding-right: 30px;
+border: 2px dotted black;
+margin: 5px 8px 5px 8px;
+height: 150px;
+width: 500px;
+}
