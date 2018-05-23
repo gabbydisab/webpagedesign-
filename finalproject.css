@@ -1,0 +1,94 @@
+/* Name: Gabby DiSabatino
+*  Date: May 16, 2018
+*  Nancy Lieberman */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Biography paragraph*/
+body {
+    width: 90% ;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+    
+}
+
+h1 {
+    padding: 10px;
+    color: blue;
+    text-decoration: underline;
+    width: 50%;
+    text-align: center;
+}
+/* Heading with my persons name */
+header {
+    border-bottom: 2px solid #ef9c00;
+    text-align: center;
+    background-color: orange;
+    font-size: 20px;
+    color: yellow;
+}
+/* Trivia and basic info on Lieberman*/
+#sidebarA {
+    width:20% ;
+    float: left;
+    font-size: 20px;
+    padding: 25px;
+}
+/*First picture in the Bio section with Nancy directing one of her players*/
+.pic1 {
+float: left;
+height: 175px; width: 190px;
+margin: 20px;
+border: 2px solid blue;
+}
+/*Second picture in bio section with Lieberman playing in a basketball game */
+.pic2 {
+float: right;
+height: 175px; width: 190px;
+margin: 20px;
+border: 2px solid blue;
+}
+/*Biography section */
+main {
+    width: 50% ;
+    float: left;
+    border-right: 2px solid orange;
+    border-left: 2px solid orange;
+    font-size: 25px;
+    padding: 20px
+    text-align: center;
+}
+
+main p {
+margin-left: 10px;
+}
+#sidebarB {
+   width: 20%; 
+padding: 25px;
+    float: right;
+    text-align: center;
+    margin: 5px;
+    font-size: 20px;
+   
+}
+/*Footer includes my sources and all material reproduced for educational purposes only. */
+footer {
+    clear: both;
+    border-top: 5px solid #ef9c00;
+    font-size: 20px;
+  margin: 10px;
+    padding: 20px;
+}
+
+
+
+/*All material reproduced for educational purposes only section */
+/* had to float this to the right and changed its color to red*/
+footer p {
+float: right;
+color: red;
+padding: 20px;
+}
